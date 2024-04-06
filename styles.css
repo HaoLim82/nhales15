@@ -1,0 +1,28 @@
+p{
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(255, 255, 255);
+}
+
+body{
+  background-color: rgb(145, 145, 206);
+  overflow-y: scroll;
+}
+
+picture{
+  position: absolute;
+  top: 0px;
+  right: 20px;
+
+}
+header{
+  color: rgb(255, 3, 3);
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  text-align: center;
+  color: black;
+}
